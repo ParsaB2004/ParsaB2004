@@ -28,7 +28,7 @@ I'm currently looking for opportunities to gain hands-on, real-world DevOps and 
 |:---:|:-------:|:------------:|
 | **16.81** | **140 / 140** | **8th semester** |
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### [DevOps Labs](https://github.com/ParsaB2004/devops-labs)
 
@@ -42,6 +42,21 @@ Hands-on labs with reproducible commands, expected output and lessons learned.
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### [ESP32 Secure Mesh](https://github.com/ParsaB2004/esp32-secure-mesh)
+
+A small ESP32 sensor mesh with a Python dashboard, built as a university IoT project and documented end to end.
+
+- Firmware for two ESP32 nodes (PlatformIO) reading DHT sensors and exchanging messages protected with **AES, RSA and HMAC**
+- Python dashboard with unit-tested packet handling
+- CI on GitHub Actions: unit tests and a firmware build for both nodes
+- Hardware schematic, architecture and security notes, including known limitations
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ## 🛠️ Skills
 
