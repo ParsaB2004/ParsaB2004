@@ -64,6 +64,7 @@ A small ESP32 sensor mesh with a Python dashboard, built as a university IoT pro
 |------|---------|
 | **DevOps & Containers** | Docker (private registry), Kubernetes (Pods, Deployments, kind), Git, GitLab CI/CD *(learning)* |
 | **Programming** | Python *(learning)* |
+| **Embedded & IoT** | ESP32 (Arduino framework, PlatformIO), DHT sensors, mesh networking, RSA / AES / HMAC |
 | **Networking** | Network fundamentals, advanced networking coursework |
 | **Systems** | Linux basics, distributed systems and architectures |
 | **Languages** | English, German |
@@ -72,7 +73,7 @@ A small ESP32 sensor mesh with a Python dashboard, built as a university IoT pro
 
 - **Telnet Parser**
 - **Inverted Index (Information Retrieval)**
-- **Sending temperature data through a mesh topology with RSA encryption**
+- **[Sending temperature data through a mesh topology with RSA encryption](https://github.com/ParsaB2004/esp32-secure-mesh)**
 
 **Presentation:** Distributed Systems and Architectures (instructor: Mehdi Aghaeei)
 
